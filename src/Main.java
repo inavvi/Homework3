@@ -96,5 +96,6 @@ public class Main {
         double increaseKristinaSalary=newKristinaSalary12-oldKristinaSalsry12;
         System.out.println("Маша теперь получает "+newMashaSalary+" рублей. Годовой доход вырос на "+increaseMashaSalary+" рублей");
         System.out.println("Денис теперь получает "+newDenisSalary+" рублей. Годовой доход вырос на "+increaseDenisSalary+" рублей");
+        System.out.println("Кристина теперь получает "+newKristinaSalary+" рублей. Годовой доход вырос на "+increaseKristinaSalary+" рублей");
     }
 }
